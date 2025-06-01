@@ -1,1 +1,1 @@
-# creativefatigue
+Creative fatigue refers to the phenomenon where an ad’s effectiveness (e.g., click-through rate, conversion rate) declines with repeated exposure. It’s important to identify and quantify this to optimize user acquisition campaigns.
